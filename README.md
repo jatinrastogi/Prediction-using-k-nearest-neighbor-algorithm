@@ -17,4 +17,19 @@
   <h2> How to use this algorithm? </h2>
    <p> This algorithm can be easily used using jupyter notebook. Make sure that you have downloaded all the packages to run this algorithm although most of the packages are inbuilt with jupyter notebook. </p>
    
+   <ol> 
+  <h2> <b> Modules Used </h2>
+  
+    1. Pandas
+    2. Numpy
+    3. sklearn (for using k nearest neighbour algorithm)
+    
+    
+   </ol>
+    <ol>
+    <h2> <b>  Data Used </h2>
+      
+      1. Train data(data used for training algorithm)
+      2. Test data(for testing)
+      
     
